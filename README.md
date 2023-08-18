@@ -7,6 +7,7 @@ Stock data analysis using Golden Cross and RSI strategy with CSV data logging ov
 - Graphical Interface
 - RSI value
 - CSV database
+- Backtesting
 
 ## Installation
 ```bash
