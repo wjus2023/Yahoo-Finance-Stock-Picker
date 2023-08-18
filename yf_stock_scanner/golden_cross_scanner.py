@@ -99,7 +99,6 @@ def golden_cross(n1, n2, n3, n4, days, direction=""):
 
                     df_updated = pd.concat([df, df_yf])
                     df_updated = df_updated.reset_index(drop=True)
-                    print(stockTicker)
                     csv_write_flag = 1
                   
                     #Combined Dataframe - df_updated
