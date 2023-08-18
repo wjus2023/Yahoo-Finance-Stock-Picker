@@ -1,6 +1,9 @@
 # Yahoo-Finance-Stock-Picker
 Stock data analysis using Golden Cross and RSI strategy with CSV data logging over Yahoo Finance API (no account creation needed)
 
+Has this project provided you trading advantages? Consider buying me a coffee with the sponser link to the right.
+
+
 ## Features
 
 - Search over hundreds of S&P 500 stocks for Golden Cross
